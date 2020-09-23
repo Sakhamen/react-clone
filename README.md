@@ -7,7 +7,7 @@ Popular Website Clone using React JS (and Firebase).
 
 | Home | Search |
 | ---- | ------ |
-![YouTube Screenshots](/youtube-clone/screenshots/youtube.jpg)
+![YouTube Screenshots](/youtube-clone/screenshot/youtube.jpg)
 
 ## Available Scripts
 
