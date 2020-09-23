@@ -5,8 +5,8 @@ Popular Website Clone using React JS (and Firebase).
 
 ### YouTube
 
-| Home | Search |
-| ---- | ------ |
+| Home & Search Page |
+| ---- |
 ![YouTube Screenshots](/youtube-clone/screenshot/youtube.jpg)
 
 ## Available Scripts
