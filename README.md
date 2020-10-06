@@ -15,7 +15,7 @@ Works on Chrome for now - [Chrome Demo](https://instagram-reels-clone-e4846.web.
 
 | Home |
 | ---- |
-![IG Reel Screenshot](/instagram-reels-clone/screenshot/reel.jpg)
+![IG Reel Screenshot](/instagram-reels-clone/screenshot/reels.jpg)
 
 ## Available Scripts
 
