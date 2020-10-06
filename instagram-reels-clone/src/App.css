@@ -1,0 +1,45 @@
+html {
+  scroll-snap-type: y mandatory;
+}
+
+.app {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background-color: black;
+}
+
+.app__top {
+  margin-top: auto;
+}
+
+.app__top > h1 {
+  color: white;
+  text-align: center;
+}
+
+.app__logo {
+  height: 12vh;
+}
+
+.app__videos {
+  position: relative;
+  height: 65vh;
+  width: 70%;
+  border-radius: 16px;
+  background-color: white;
+  max-width: 450px;
+  max-height: 1200px;
+  overflow: scroll;
+  scroll-snap-type: y mandatory;
+}
+
+/* Hide Scrollbar */
+.app__videos {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE & Edge */
+}
+
+.app__videos::-webkit-scrollbar { /* Chrome, Safari and Opera */
+  display: none;
+}

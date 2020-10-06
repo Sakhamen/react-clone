@@ -5,9 +5,17 @@ Popular Website Clone using React JS (and Firebase).
 
 ### YouTube
 
-| Home & Search Page |
-| ---- |
+| Home | Search |
+| ---- | ------ |
 ![YouTube Screenshots](/youtube-clone/screenshot/youtube.jpg)
+
+### Instagram Reels
+
+Works on Chrome for now - [Chrome Demo](https://instagram-reels-clone-e4846.web.app/)
+
+| Home |
+| ---- |
+![IG Reel Screenshot](/instagram-reels-clone/screenshot/reel.jpg)
 
 ## Available Scripts
 
