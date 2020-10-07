@@ -11,11 +11,20 @@ Popular Website Clone using React JS (and Firebase).
 
 ### Instagram Reels
 
-Works on Chrome for now - [Chrome Demo](https://instagram-reels-clone-e4846.web.app/)
+Works on Chrome for now - [Chrome Demo](https://instagram-reels-clone-e4846.web.app)
 
 | Home |
 | ---- |
 ![IG Reel Screenshot](/instagram-reels-clone/screenshot/reels.jpg)
+
+### Netflix
+
+Best viewed on Chrome - [Demo](https://netflix-clone-98a31.web.app)
+
+| Home |
+| ---- |
+![Netflix Screenshot](/netflix-clone/screenshot/netflix.jpg)
+
 
 ## Available Scripts
 
