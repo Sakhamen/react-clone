@@ -1,0 +1,48 @@
+.searchDate {
+  position: absolute;
+  top: 35px;
+  left: 25%;
+  width: 100vw;
+}
+
+.searchDate > h2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 559px;
+  padding: 10px;
+  background-color: white;
+  position: absolute;
+  left: 0;
+  top: 380px;
+}
+
+.searchDate > input {
+  position: absolute;
+  width: 539px;
+  height: 30px;
+  border: none;
+  padding: 20px;
+  left: 0;
+  top: 420px;
+}
+
+.searchDate > input:focus {
+  outline-width: 0;
+}
+
+.searchDate > button {
+  position: absolute;
+  left: 0;
+  top: 480px;
+  text-transform: inherit !important;
+  background-color: #ff7779;
+  color: white;
+  width: 579px;
+}
+
+.searchDate > button:hover {
+  background-color: black;
+  /* background-color: white;
+  color: #ff7779; */
+}

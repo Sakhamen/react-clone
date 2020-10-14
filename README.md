@@ -5,8 +5,8 @@ Popular Website Clone using React JS (and Firebase).
 
 ### YouTube
 
-| Home | Search |
-| ---- | ------ |
+| Home & Search |
+| ------- |
 ![YouTube Screenshots](/youtube-clone/screenshot/youtube.jpg)
 
 ### Instagram Reels
@@ -25,11 +25,18 @@ Best viewed on Chrome - [Demo](https://netflix-clone-98a31.web.app)
 | ---- |
 ![Netflix Screenshot](/netflix-clone/screenshot/netflix.jpg)
 
+### Airbnb
+
+View demo - [Demo](https://airbnb-clone-5faa5.web.app/)
+| Home | Search |
+| ---- | ------ |
+![Airbnb Screenshot](/airbnb-clone/screenshot/airbnb-1.jpg) | ![Airbnb Screenshot](/airbnb-clone/screenshot/airbnb-2.jpg)
 
 ## Available Scripts
 
 In the project directory, you can run:
 
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.<br />
