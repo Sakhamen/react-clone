@@ -7,7 +7,7 @@ Popular Website Clone using React JS (and Firebase).
 
 | Home & Search |
 | ------- |
-![YouTube Screenshots](/youtube-clone/screenshot/youtube.jpg)
+![YouTube Screenshot](/youtube-clone/screenshot/youtube.jpg)
 
 ### Instagram Reels
 
@@ -31,6 +31,13 @@ View demo - [Demo](https://airbnb-clone-5faa5.web.app/)
 | Home | Search |
 | ---- | ------ |
 ![Airbnb Screenshot](/airbnb-clone/screenshot/airbnb-1.jpg) | ![Airbnb Screenshot](/airbnb-clone/screenshot/airbnb-2.jpg)
+
+### Facebook
+
+| Home |
+| ---- |
+![Facebook Screenshot](/facebook-clone/screenshot/facebook.jpg)
+
 
 ## Available Scripts
 
