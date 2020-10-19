@@ -1,5 +1,6 @@
 import React from 'react';
 import './Header.css';
+import { useStateValue } from '../../store/StateProvider';
 
 import logo from '../../images/facebook-logo.png';
 
@@ -18,6 +19,8 @@ import SupervisedUserCircleIcon from '@material-ui/icons/SupervisedUserCircle';
 import SubscriptionsOutlinedIcon from '@material-ui/icons/SubscriptionsOutlined';
 
 function Header() {
+  const [{ user }, dispatch] = useStateValue();
+
   return (
     <div className="header">
       <div className="header__left">
@@ -52,8 +55,8 @@ function Header() {
 
       <div className="header__right">
         <div className="header__info">
-          <Avatar />
-          <h4>sakhamen</h4>
+          <Avatar src={user.photoURL} />
+          <h4>{user.displayName}</h4>
         </div>
 
         <IconButton>
