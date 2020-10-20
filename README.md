@@ -39,7 +39,7 @@ View demo - [Demo](https://facebook-clone-7cbea.web.app/)
 | ---- |
 ![Facebook Screenshot](/facebook-clone/screenshot/facebook.jpg)
 
-### DSTV now
+### DSTV Now
 
 | Profile | Catchup |
 | ---- | ------ |
