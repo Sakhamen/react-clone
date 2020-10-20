@@ -19,7 +19,7 @@ Works on Chrome for now - [Chrome Demo](https://instagram-reels-clone-e4846.web.
 
 ### Netflix
 
-Best viewed on Chrome - [Demo](https://netflix-clone-98a31.web.app)
+View demo - [Demo](https://netflix-clone-98a31.web.app)
 
 | Home |
 | ---- |
@@ -34,9 +34,17 @@ View demo - [Demo](https://airbnb-clone-5faa5.web.app/)
 
 ### Facebook
 
+View demo - [Demo](https://facebook-clone-7cbea.web.app/)
 | Home |
 | ---- |
 ![Facebook Screenshot](/facebook-clone/screenshot/facebook.jpg)
+
+### DSTV now
+
+| Profile | Catchup |
+| ---- | ------ |
+![Dstv Screenshot](/dstv-now-clone/screenshot/dstv-1.jpg) | ![Dstv Screenshot](/dstv-now-clone/screenshot/dstv-2.jpg)
+
 
 
 ## Available Scripts

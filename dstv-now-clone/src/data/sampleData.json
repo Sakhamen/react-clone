@@ -1,0 +1,135 @@
+{
+  "recent":[
+    {
+      "id":1,
+      "name":"Gomora",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/03/11/IS20_1051761_PP_med.jpg"
+    }
+  ],
+  "latest":[
+    {
+      "id":1,
+      "name":"Isono",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/10/17/IS20_1054002_PP_001_med.jpg"
+    },
+    {
+      "id":2,
+      "name":"The queen",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/10/06/IS20_1053442_PP_med.jpg"
+    },
+    {
+      "id":3,
+      "name":"Idols sa",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/07/30/IS20_1051922_PP_med.jpg"
+    },
+    {
+      "id":4,
+      "name":"Isibaya",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/06/16/IS20_1052394_PP_med.jpg"
+    },
+    {
+      "id":5,
+      "name":"Gomora",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/03/11/IS20_1051761_PP_med.jpg"
+    },
+    {
+      "id":6,
+      "name":"Dinner at somizi's",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/07/10/IS20_1053522_PP_med.jpg"
+    },
+    {
+      "id":7,
+      "name":"Vula vala",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/10/05/IS20_1054361_PP_med.jpg"
+    },
+    {
+      "id":8,
+      "name":"african farming",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/10/02/IS20_1054890_PP_med.jpg"
+    }
+  ],
+  "original":[
+    {
+      "id":1,
+      "name":"Pinky pinky",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/09/28/IS20_100269169_PP_med.jpg"
+    },
+    {
+      "id":2,
+      "name":"sawubona we love",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/10/10/IS20_100284091_PP_med.jpg"
+    },
+    {
+      "id":3,
+      "name":"She is king",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/09/23/IS20_100074785_PP_med.jpg"
+    },
+    {
+      "id":4,
+      "name":"Ingane yami",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/10/16/E36B_1051771_PP_med.jpg"
+    },
+    {
+      "id":5,
+      "name":"Izangoma zodumo",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/10/13/E36B_1053785_PP_med.jpg"
+    },
+    {
+      "id":6,
+      "name":"Uthando nes'thembu",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/09/16/IS20_1052392_PP_med.jpg"
+    },
+    {
+      "id":7,
+      "name":"unmarried",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/09/10/E36B_1053925_PP_med.jpg"
+    },
+    {
+      "id":8,
+      "name":"Celebrity mystery box",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/07/07/IS20_1053471_PP_med.jpg"
+    }
+  ],
+  "local":[
+    {
+      "id":1,
+      "name":"The River",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2019/04/25/IS20_1048787_PP_med.jpg"
+    },
+    {
+      "id":2,
+      "name":"You promised to mary me",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/09/08/IS20_1054582_PP_med.jpg"
+    },
+    {
+      "id":3,
+      "name":"The lasizwe show",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/10/11/IS20_1052678_PP_med.jpg"
+    },
+    {
+      "id":4,
+      "name":"Rea tsotella",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/08/03/IS20_1054177_PP_med.jpg"
+    },
+    {
+      "id":5,
+      "name":"Single & Mingle",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/09/07/IS20_1054333_PP_med.jpg"
+    },
+    {
+      "id":6,
+      "name":"Mamazala",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/03/11/IS20_1051761_PP_med.jpg"
+    },
+    {
+      "id":7,
+      "name":"Correxions",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/09/05/IS20_1054372_PP_med.jpg"
+    },
+    {
+      "id":8,
+      "name":"Uthando noxolo",
+      "thumbnail":"https://cdn.dstv.com/dstvcms/2020/08/07/IS20_1054247_PP_med.jpg"
+    }
+  ]
+}
