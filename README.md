@@ -47,7 +47,7 @@ View demo - [Demo](https://facebook-clone-7cbea.web.app/)
 
 ### Hulu
 
-| Home & Search |
+| Home |
 | ------- |
 ![Hulu Screenshot](/hulu-clone/screenshot/hulu.jpg)
 
