@@ -51,6 +51,12 @@ View demo - [Demo](https://facebook-clone-7cbea.web.app/)
 | ------- |
 ![Hulu Screenshot](/hulu-clone/screenshot/hulu.jpg)
 
+### Amazon
+
+| Home |
+| ------- |
+![Amazon Screenshot](/amazon-clone/screenshot/amazon.jpg)
+
 
 
 ## Available Scripts
